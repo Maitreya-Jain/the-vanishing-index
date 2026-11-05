@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "The Vanishing Index" },
+    { "path": "/archive", "title": "Archive" },
+    { "path": "/cases/:slug", "title": "Case File" },
+    { "path": "/evidence", "title": "Evidence Room" },
+    { "path": "/timeline", "title": "Historical Timeline" },
+    { "path": "/process", "title": "Design Process & Gestalt Showcase" }
+  ]
+}
